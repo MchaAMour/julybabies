@@ -1,0 +1,114 @@
+/*--------------------------------------------------------------
+| |       BootStrap MEdia Quires
+
+---------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+| |         Large devices
+--------------------------------------------------------*/
+
+@media(min-width:1200px) and (max-width:3190px){
+  .site-nav-wrapper{
+    padding: 0 20px;
+  }
+}
+
+/*
+
+#service-tabs .tab-bg{
+
+  min-height: 300px;
+
+}
+.service-tab p{
+  line-height: 20px;
+  padding-right: 90px;
+}
+.service-tab {
+  padding-left: 60px;
+
+}
+
+.service-tab h2{
+  font-size: 24px;
+
+  font-weight: 50px;
+  margin-bottom: 10px;
+}
+
+.service-tab h3{
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+*/
+
+
+
+/*--------------------------------------------------------------
+| |         Medium devices
+--------------------------------------------------------*/
+@media(min-width:992px) and (max-width:1199px){
+
+  .site-nav-wrapper{
+    padding: 0;
+
+  }
+  .vertical-heading h2{
+      font-size: 29px;
+  }
+
+
+  #services-tabs .col-md-6{
+    padding-right: 80px;
+
+  }
+
+.service-tab h2{
+  font-size: 24px;
+
+  font-weight: 50px;
+  margin-bottom: 10px;
+}
+
+.service-tab h3{
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+
+.service-tab p{
+  line-height: 20px;
+}
+
+}
+
+
+#mcha .container{
+  padding-right: 200px;
+}
+
+/*
+#team-members {
+  margin-left:0;
+}
+
+ #home-sm-video{
+   width: 100%;
+   height: 100%;
+ }
+*/
+/*--------------------------------------------------------------
+| |         small devices
+--------------------------------------------------------*/
+@media(min-width:768px) and (max-width:991px){
+
+}
+
+
+/*--------------------------------------------------------------
+| |       extra  small devices
+--------------------------------------------------------*/
+@media (max-width:767px){
+
+}
