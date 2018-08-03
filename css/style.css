@@ -509,7 +509,10 @@ ul.social-list li:nth-child(1)a:hover{
 
 }
 
-
+#pro h2{
+  color: #C0C0C0;
+  font-weight: 300;
+}
 
 
 
@@ -805,6 +808,18 @@ text-align: center;
   padding-top: 20%;
 
 }
+
+/*--------------------------------------------------------------
+| | Documentation
+--------------------------------------------------------*/
+
+#doc {
+  color: black;
+}
+
+
+
+
 
 
 
